@@ -1,0 +1,17 @@
+{
+    "start_url": "/jyl2app/",
+    "name": "JYL TO APP SUCCESS",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "/test/image/lenn--nn02.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      }
+    ],
+    "short_name": "JYL TO APP",
+    "theme_color": "#111111",
+    
+    "background_color": "#ffffff"
+    
+  }
